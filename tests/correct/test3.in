@@ -1,0 +1,11 @@
+# Test the 'move' command to artificially make it the wrong player's move.
+java -ea jump61.Main
+None
+===#1===
+move 2
+manual blue
+start
+1 1
+dump
+quit
+===#2===

@@ -1,0 +1,15 @@
+# Shouldn't crash
+java -ea jump61.Main
+None
+===#1===
+hilfinger
+hilfinger
+hilfinger
+run
+the
+autograder
+right
+now
+===#2===
+
+

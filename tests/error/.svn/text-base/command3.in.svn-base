@@ -1,0 +1,13 @@
+# Shouldn't crash
+java -ea jump61.Main
+None
+===#1===
+start
+1 8
+1 9
+2 0
+2 -1
+1 2
+dump
+quit
+===#2===
